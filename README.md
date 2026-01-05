@@ -25,7 +25,7 @@ Features smooth hover interactions that transform images into circular avatars a
 <h2>Live Demo</h2>
 
 <p>
-🔗 <a href="https://your-username.github.io/project-name/" target="_blank"><strong>View Live Demo</strong></a>
+🔗 <a href="https://seifelsayedofficial.github.io/Card-Image-Hover-Animation/" target="_blank"><strong>View Live Demo</strong></a>
 </p>
 
 <hr>
